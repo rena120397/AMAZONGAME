@@ -29,8 +29,8 @@ public class Puntajes : MonoBehaviour {
         //untaje en texto
         textoPuntaje.text = ""+contadorPuntaje;
                 
-        //Si se tiene 10 puntos 
-        if (contadorPuntaje == 10  && motorCarreterasScript.juegoTerminado == false)
+        //Si se tiene 4 puntos 
+        if (contadorPuntaje == 4  && motorCarreterasScript.juegoTerminado == false)
         {
             
             motorCarreterasScript.juegoTerminado = true;

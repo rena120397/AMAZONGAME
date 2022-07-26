@@ -375,9 +375,11 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 670741470}
-  m_Text: 'Integrante:
+  m_Text: '
 
-    Chevarria Ronald'
+    Chevarria Ronald 1629584
+
+    examen final'
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
